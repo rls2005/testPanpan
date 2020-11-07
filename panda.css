@@ -1,0 +1,32 @@
+@charset "UTF-8";
+h1{color: DarkRed;
+    font-size: 50px;
+    text-align: center;
+}
+h2{color: DarkRed;
+    font-size: 35px;
+    margin-bottom: 0px;
+    padding: 0px;
+    }
+h3{color: DarkRed;
+     font-size: 25px;
+     margin-bottom: 0px;
+     padding: 0px;
+}
+body{
+    background-color: chocolate;
+    font-family: sans-serif;
+}
+div{
+    background-color: Moccasin;
+    width:800px ;
+    margin: auto;
+    height: 100%;
+}
+img{
+    width: 300px;
+}
+p{
+    font-size: 18px;
+    margin-top: 0px;
+}
